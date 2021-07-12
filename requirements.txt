@@ -1,0 +1,4 @@
+psutil==5.8.0
+pywin32==301
+PyGetWindow==0.0.9
+PySimpleGUI==4.45.0
