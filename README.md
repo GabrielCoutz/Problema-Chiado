@@ -83,3 +83,12 @@ Caso tenha ocorrido algum erro (óbvio que terá kkkk), siga os passos a seguir
 ![txt](Imagens/txt.PNG)
 
 6. Agora salve, feche e tente rodar novamente =)
+
+<hr>
+
+<h1>Entre em Contato Comigo ^-^</h1>
+Caso precise falar comigo ou tenha acontecido algum erro, só fazer isso:
+
+Clique em **Issues** e depois em **New Issue**. Descreva seu problema, se possível com imagens, e espere meu contato =)
+
+![issue](Imagens/issue.PNG)
