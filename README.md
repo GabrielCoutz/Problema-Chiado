@@ -65,15 +65,15 @@ Caso tenha ocorrido algum erro (óbvio que terá kkkk), siga os passos a seguir
 
 1. Procure onde está instalado o seu **BlueStacks**, na barra de pesquisa do Windows digite **Bluestacks**. Em seguida clique com o botão direito e vá em **Abrir local do arquivo**
 
-![local_win](Imagens/)
+![local_win](Imagens/local_win.png)
 
 2. Na pasta que abriu, clique com o botão direito em **BlueStacks** e vá até **Propriedades**
 
-![propriedades](Imagens/)
+![propriedades](Imagens/propriedades.png)
 
 3. Copie o diretório que está em **Destino**
 
-![dir](Imagens/)
+![dir](Imagens/dir.PNG)
 
 4. Vá até pasta onde estão os arquivos desse programa e abra o arquivo de texto **local_bluestacks.txt**
 
