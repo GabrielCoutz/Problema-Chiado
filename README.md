@@ -79,4 +79,8 @@ Caso tenha ocorrido algum erro (óbvio que terá kkkk), siga os passos a seguir
 
 ![local_blue](Imagens/local_blue.PNG)
 
-5. Basta colar dentro, salvar e rodar novamente. 
+5. Cole e retire as aspas **"** que estão no início e fim, deve ficar limpo, igual à imagem de exemplo abaixo!!
+
+![txt](Imagens/txt.PNG)
+
+6. Agora salve, feche e tente rodar novamente =)
