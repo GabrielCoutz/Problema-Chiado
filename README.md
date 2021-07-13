@@ -1,12 +1,7 @@
-# Problema-Chiado
-Um algoritmo que resolve o problema com chiado no Razer Sorround usando o programa BlueStacks ( ou pelo menos essa é a ideia XD )
-<hr>
-Se vc tiver algum problema (óbvio que terá kkkk), olhe para o topo da página e clique em Issues --> New Issue, então descreva o que aconteceu, se possível com prints, após isso apenas aguarde o meu retorno =)
+# Resolver Chiado no Razer Sorround
 
-Ainda estou no início sobre programação, então peço que tenham paciência cmg ^^
-
-<hr>
-Antes de iniciar um Issue, vc pode tentar abrir o arquivo local_bluestacks.txt que o algortimo criou e colocar manualmente o diretório do seu BlueStacks.exe
+Estou aprendendo a programar, então fiz esse código para ajudar a resolver o problema com chiado nos fones razer utilizando o programa BlueStacks
+ 
 <hr>
 
 <h1>Como Utilizar?</h1>
@@ -21,7 +16,7 @@ Antes de iniciar um Issue, vc pode tentar abrir o arquivo local_bluestacks.txt q
 
 3. Abra a pasta extraída e execute **Resolver.exe**, não é necessário executar como administrador mas não tem problema se fizer isso
 
-![excutar](Imagens/executar.png)
+![excutar](Imagens/executar.PNG)
 
 4. Aparecerá uma janela inicial, leia com atenção e clique em **Começar**
 
@@ -60,3 +55,28 @@ Agora, para que esse programa rode e resolva o problema sempre que o pc é ligad
 ![copiar](Imagens/copiar.png)
 
 5. Para finalizar, pode colocar a pasta com todos os arquivos em qualquer lugar _(não apague)_, depois disso reinicie o pc e veja a mágica acontecer kkk
+
+<hr>
+
+<h1>Deu ruim x_x ?</h1>
+
+Caso tenha ocorrido algum erro (óbvio que terá kkkk), siga os passos a seguir
+
+
+1. Procure onde está instalado o seu **BlueStacks**, na barra de pesquisa do Windows digite **Bluestacks**. Em seguida clique com o botão direito e vá em **Abrir local do arquivo**
+
+![local_win](Imagens/)
+
+2. Na pasta que abriu, clique com o botão direito em **BlueStacks** e vá até **Propriedades**
+
+![propriedades](Imagens/)
+
+3. Copie o diretório que está em **Destino**
+
+![dir](Imagens/)
+
+4. Vá até pasta onde estão os arquivos desse programa e abra o arquivo de texto **local_bluestacks.txt**
+
+![local_blue](Imagens/local_blue.PNG)
+
+5. Basta colar dentro, salvar e rodar novamente. 
