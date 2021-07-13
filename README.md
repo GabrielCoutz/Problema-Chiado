@@ -6,11 +6,11 @@ Estou aprendendo a programar, então fiz esse código para ajudar a resolver o p
 
 <h1>Como Utilizar?</h1>
  
-1. Vá em **code** e clique em **Download ZIP**
+1. Entre aqui <https://github.com/GabrielCoutz/Problema-Chiado> e clique em **code** e depois em **Download ZIP**
 
 ![download](Imagens/download.PNG)
 
-2. Extraia o arquivo em uma pasta, pode colocar qualquer nome nessa pasta.
+2. Crie uma pasta e extraia o arquivo dentro, pode colocar qualquer nome nessa pasta
 
 ![salvar](Imagens/salvar.png)
 
@@ -22,8 +22,7 @@ Estou aprendendo a programar, então fiz esse código para ajudar a resolver o p
 
 ![janela](Imagens/janela.PNG)
 
-5. Após isso o programa começará a rodar, então é só esperar 1 minuto
-> _PS: Colocarei um sinal para indicar que está rodando_
+5. Após isso o programa começará a rodar, então aproveite a música de espera selecionada a dedo e aguarde terminar ;)
 
 
 6. A janela final aparecerá, só ler e fechar
