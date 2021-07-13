@@ -10,7 +10,7 @@ Estou aprendendo a programar, então fiz esse código para ajudar a resolver o p
 
 ![download](Imagens/download.PNG)
 
-2. Extraia o arquivo em uma pasta, pode colocar qualquer nome nessa pasta.
+2. Crie uma pasta e extraia o arquivo dentro, pode colocar qualquer nome nessa pasta
 
 ![salvar](Imagens/salvar.png)
 
