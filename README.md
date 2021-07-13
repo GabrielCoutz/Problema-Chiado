@@ -22,8 +22,7 @@ Estou aprendendo a programar, então fiz esse código para ajudar a resolver o p
 
 ![janela](Imagens/janela.PNG)
 
-5. Após isso o programa começará a rodar, então é só esperar 1 minuto
-> _PS: Colocarei um sinal para indicar que está rodando_
+5. Após isso o programa começará a rodar, então aproveite a música de espera selecionada a dedo e aguarde terminar ;)
 
 
 6. A janela final aparecerá, só ler e fechar
