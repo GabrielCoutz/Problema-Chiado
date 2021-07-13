@@ -13,19 +13,19 @@ Antes de iniciar um Issue, vc pode tentar abrir o arquivo local_bluestacks.txt q
  
 1. Vá em **code** e clique em **Download ZIP**
 
-![download]()
+![download](Imagens/download.PNG)
 
 2. Extraia o arquivo em uma pasta, pode colocar qualquer nome nessa pasta.
 
-![salvar]()
+![salvar](Imagens/salvar.png)
 
 3. Abra a pasta extraída e execute **Resolver.exe**, não é necessário executar como administrador mas não tem problema se fizer isso
 
-![excutar]()
+![excutar](Imagens/executar.png)
 
 4. Aparecerá uma janela inicial, leia com atenção e clique em **Começar**
 
-![janela]()
+![janela](Imagens/janela.PNG)
 
 5. Após isso o programa começará a rodar, então é só esperar 1 minuto
 > _PS: Colocarei um sinal para indicar que está rodando_
@@ -33,7 +33,7 @@ Antes de iniciar um Issue, vc pode tentar abrir o arquivo local_bluestacks.txt q
 
 6. A janela final aparecerá, só ler e fechar
 
-![janela_final]()
+![janela_final](Imagens/janela_final.PNG)
 
 <hr>
 
@@ -43,20 +43,20 @@ Agora, para que esse programa rode e resolva o problema sempre que o pc é ligad
 
 1. Pressione **Windows** + **R** e digite **%appdata%**, depois clique em OK
 
-![appdata]()
+![appdata](Imagens/appdata.PNG)
 
 2. Agora, siga esse caminho: _AppData --> Roaming --> Microsoft  --> Windows  --> Start Menu  --> Programs  --> Startup_
    1. Com vc pode estar em português, então as 3 últimas pastas serão _Menu Iniciar --> Programas --> Inicializar_
 
-![caminho]()
+![caminho](Imagens/caminho.PNG)
 
 3. Volte à pasta em qu vc extraiu os arquivos. Clique com o botão direito em **Resolver** e clique em **Criar Atalho**
 
 
-![atalho]()
+![atalho](Imagens/atalho.png)
 
 4. Agora basta colocar esse atalho para dentro da pasta _Inicializar_ para que rode quando o windows iniciar
 
-![copiar]()
+![copiar](Imagens/copiar.png)
 
 5. Para finalizar, pode colocar a pasta com todos os arquivos em qualquer lugar _(não apague)_, depois disso reinicie o pc e veja a mágica acontecer kkk
