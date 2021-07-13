@@ -18,3 +18,19 @@ Antes de iniciar um Issue, vc pode tentar abrir o arquivo local_bluestacks.txt q
 2. Extraia o arquivo em uma pasta, pode colocar qualquer nome nessa pasta.
 
 ![salvar]()
+
+3. Abra a pasta extraída e execute **Resolver.exe**, não é necessário executar como administrador mas não tem problema se fizer isso
+
+![excutar]()
+
+4. Aparecerá uma janela inicial, leia com atenção e clique em **Começar**
+
+![janela]()
+
+5. Após isso o programa começará a rodar, então é só esperar 1 minuto
+> _PS: Colocarei um sinal para indicar que está rodando_
+
+
+6. A janela final aparecerá, só ler e fechar
+
+![janela_final]()
