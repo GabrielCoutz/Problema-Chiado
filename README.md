@@ -8,4 +8,13 @@ Ainda estou no início sobre programação, então peço que tenham paciência c
 <hr>
 Antes de iniciar um Issue, vc pode tentar abrir o arquivo local_bluestacks.txt que o algortimo criou e colocar manualmente o diretório do seu BlueStacks.exe
 <hr>
-**teste**
+
+<h1>Como Utilizar?</h1>
+ 
+1. Vá em **code** e clique em **Download ZIP**
+
+![download]()
+
+2. Extraia o arquivo em uma pasta, pode colocar qualquer nome nessa pasta.
+
+![salvar]()
