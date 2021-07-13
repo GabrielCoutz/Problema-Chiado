@@ -21,7 +21,7 @@ Antes de iniciar um Issue, vc pode tentar abrir o arquivo local_bluestacks.txt q
 
 3. Abra a pasta extraída e execute **Resolver.exe**, não é necessário executar como administrador mas não tem problema se fizer isso
 
-![excutar](Imagens/executar.png)
+![excutar](Imagens/executar.PNG)
 
 4. Aparecerá uma janela inicial, leia com atenção e clique em **Começar**
 
