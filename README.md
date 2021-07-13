@@ -50,7 +50,7 @@ Agora, para que esse programa rode e resolva o problema sempre que o pc é ligad
 
 ![atalho](Imagens/atalho.png)
 
-4. Agora basta colocar esse atalho para dentro da pasta _Inicializar_ para que rode quando o windows iniciar
+4. Agora basta colocar esse atalho dentro da pasta _Inicializar_ para que rode quando o windows iniciar
 
 ![copiar](Imagens/copiar.png)
 
