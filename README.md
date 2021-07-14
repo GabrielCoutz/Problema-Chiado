@@ -39,8 +39,8 @@ Agora, para que esse programa rode e resolva o problema sempre que o pc é ligad
 
 ![appdata](Imagens/appdata.PNG)
 
-2. Agora, siga esse caminho: _AppData --> Roaming --> Microsoft  --> Windows  --> Start Menu  --> Programs  --> Startup_
-   1. Com vc pode estar em português, então as 3 últimas pastas serão _Menu Iniciar --> Programas --> Inicializar_
+2. Agora, siga esse caminho: **_AppData --> Roaming --> Microsoft  --> Windows  --> Start Menu  --> Programs  --> Startup_**
+   1. Com vc pode estar em português, então as 3 últimas pastas serão **_Menu Iniciar --> Programas --> Inicializar_**
 
 ![caminho](Imagens/caminho.PNG)
 
@@ -74,7 +74,7 @@ Caso tenha ocorrido algum erro (óbvio que terá kkkk), siga os passos a seguir
 
 ![dir](Imagens/dir.PNG)
 
-4. Vá até pasta onde estão os arquivos desse programa e abra o arquivo de texto **local_bluestacks.txt**
+4. Vá até pasta onde estão os arquivos desse programa e abra o arquivo de texto **local_bluestacks**
 
 ![local_blue](Imagens/local_blue.PNG)
 
