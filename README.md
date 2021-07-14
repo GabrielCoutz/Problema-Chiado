@@ -14,7 +14,7 @@ Estou aprendendo a programar, então fiz esse código para ajudar a resolver o p
 
 ![salvar](Imagens/salvar.png)
 
-3. Abra a pasta que foi extraída **(Problema-Chiado-Main) e execute **Resolver**, não é necessário executar como administrador mas não tem problema se fizer isso
+3. Abra a pasta que foi extraída **(Problema-Chiado-Main)** e execute **Resolver**, não é necessário executar como administrador mas não tem problema se fizer isso
 
 ![excutar](Imagens/executar.PNG)
 
