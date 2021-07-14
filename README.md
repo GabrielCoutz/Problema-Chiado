@@ -10,11 +10,11 @@ Estou aprendendo a programar, então fiz esse código para ajudar a resolver o p
 
 ![download](Imagens/download.PNG)
 
-2. Crie uma pasta e extraia o arquivo dentro, pode colocar qualquer nome nessa pasta
+2. Crie uma pasta na **Área de Trabalho** e extraia o arquivo dentro, pode colocar qualquer nome nessa pasta
 
 ![salvar](Imagens/salvar.png)
 
-3. Abra a pasta extraída e execute **Resolver.exe**, não é necessário executar como administrador mas não tem problema se fizer isso
+3. Abra a pasta que foi extraída **(Problema-Chiado-Main) e execute **Resolver**, não é necessário executar como administrador mas não tem problema se fizer isso
 
 ![excutar](Imagens/executar.PNG)
 
@@ -22,7 +22,7 @@ Estou aprendendo a programar, então fiz esse código para ajudar a resolver o p
 
 ![janela](Imagens/janela.PNG)
 
-5. Após isso o programa começará a rodar, então aproveite a música de espera selecionada a dedo e aguarde terminar ;)
+5. Após isso o programa começará a rodar, então aproveite a música de espera _(selecionada a dedo)_ e aguarde terminar ;)
 
 
 6. A janela final aparecerá, só ler e fechar
