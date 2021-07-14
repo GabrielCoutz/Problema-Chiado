@@ -27,7 +27,7 @@ Estou aprendendo a programar, então fiz esse código para ajudar a resolver o p
 
 6. A janela final aparecerá, só ler e fechar
 
-![janela_final](Imagens/janela_final.PNG)
+![janela_final](Imagens/)
 
 <hr>
 
