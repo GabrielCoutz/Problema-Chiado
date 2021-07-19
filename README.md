@@ -2,6 +2,7 @@
 
 Estou aprendendo a programar, então fiz esse código para ajudar a resolver o problema com chiado nos fones razer utilizando o programa BlueStacks
  
+ Em suma, é um algoritmo que executa o BlueStacks, resolvendo o problema principal do Chiado. Depois disso, fecha os processos _"Bluestacks 4"_ e _"BlueStacks Agent"_, para não executar em segundo plano, evitando de consumir memória RAM e processamento desnecessários.
 <hr>
 
 <h1>Como Utilizar?</h1>
