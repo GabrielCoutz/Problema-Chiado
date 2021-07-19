@@ -60,7 +60,7 @@ Agora, para que esse programa rode e resolva o problema sempre que o pc é ligad
 
 <h1>Deu ruim x_x ?</h1>
 
-Caso tenha ocorrido algum erro (óbvio que terá kkkk), siga os passos a seguir
+Caso tenha ocorrido algum erro (óbvio que acontecerá kk), primeiramente, me mande uma mensagem com um print ou uma explicação do que está acontecendo _(leia o próximo tópico **Entre em Contato Comigo**)_, em seguida siga os passos a seguir:
 
 
 1. Procure onde está instalado o seu **BlueStacks**, na barra de pesquisa do Windows digite **Bluestacks**. Em seguida clique com o botão direito e vá em **Abrir local do arquivo**
