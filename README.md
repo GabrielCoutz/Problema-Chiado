@@ -23,7 +23,7 @@ Estou aprendendo a programar, então fiz esse código para ajudar a resolver o p
 
 ![janela](Imagens/janela.PNG)
 
-5. Após isso o programa começará a rodar, então aproveite a música de espera _( selecionada com carinho =) )_ e aguarde terminar ;)
+5. Após isso o programa começará a rodar, então aproveite a música de espera _( selecionada com carinho XD )_ e aguarde terminar ;)
 
 
 6. A janela final aparecerá, só ler e fechar
@@ -40,7 +40,7 @@ Agora, para que esse programa rode e resolva o problema sempre que o pc é ligad
 
 ![appdata](Imagens/appdata.PNG)
 
-2. Agora, siga esse caminho: **_AppData --> Roaming --> Microsoft  --> Windows  --> Start Menu  --> Programs  --> Startup_**
+2. Siga esse caminho: **_AppData --> Roaming --> Microsoft  --> Windows  --> Start Menu  --> Programs  --> Startup_**
    1. Com vc pode estar em português, então as 3 últimas pastas serão **_Menu Iniciar --> Programas --> Inicializar_**
 
 ![caminho](Imagens/caminho.PNG)
