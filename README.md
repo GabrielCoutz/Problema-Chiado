@@ -16,7 +16,7 @@ Em relação do **DPC Latency**:
 
 ![memoria_dpc](Imagens/memoria_latency.PNG)
 
-Ou seja, ambos podem acabar com seu problema, só resta a vc escolher qual porograma utilizar =)
+Ou seja, ambos podem acabar com seu problema, só resta a vc escolher qual programa utilizar =)
 
 # Links
 Faça sua escolha e após isso, entre em um dos links abaixo:
