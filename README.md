@@ -21,6 +21,6 @@ Ou seja, ambos podem acabar com seu problema, só resta a vc escolher qual porog
 # Links
 Faça sua escolha e após isso, entre em um dos links abaixo:
 
-**Utilizar BlueStacks** - <teste>
+**Utilizar BlueStacks** - **<https://github.com/GabrielCoutz/Problema-Chiado/blob/main/Usando%20BlueStacks/README.md>**
 
 **Utilizar DPC Latency** - <teste>
