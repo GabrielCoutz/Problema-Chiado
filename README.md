@@ -10,17 +10,17 @@ Existem 2 maneiras que é possível resolver seu problema com o Chiado:
 
 Ambos conseguem parar o Chiado ao serem executados, porém, com o **BlueStacks** o consumo de **memória RAM** é mais alto:
 
-![memoria](Imagens/)
+![memoria](Imagens/memoria_bluestacks.PNG)
 
 Em relação do **DPC Latency**:
 
-![memoria_dpc](Imagens/)
+![memoria_dpc](Imagens/memoria_latency.PNG)
 
-Ou seja, ambos podem acabar com seu problema, só resta a vc escolher qual porograma utilizar =)
+Ou seja, ambos podem acabar com seu problema, só resta a vc escolher qual programa utilizar =)
 
 # Links
 Faça sua escolha e após isso, entre em um dos links abaixo:
 
-**Utilizar BlueStacks** - <teste>
+**Utilizar BlueStacks** - **<https://github.com/GabrielCoutz/Problema-Chiado/blob/main/Usando%20BlueStacks/README.md>**
 
-**Utilizar DPC Latency** - <teste>
+**Utilizar DPC Latency** - _Em desenvolvimento!_
