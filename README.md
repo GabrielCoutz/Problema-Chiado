@@ -16,6 +16,8 @@ Em relação do **DPC Latency**:
 
 ![memoria_dpc](Imagens/memoria_latency.PNG)
 
+Também tem a diferença que, o **BlueStacks** vc precisa baixar e instalar. Já o **DPC Latency** basta baixá-lo, sem executar ou qualquer alteração.
+
 Ou seja, ambos podem acabar com seu problema, só resta a vc escolher qual programa utilizar =)
 
 # Links
