@@ -1,4 +1,4 @@
-# Resolver Chiado no Razer Sorround
+# Resolver Chiado no Razer Surround
 
 Estou aprendendo a programar, então fiz esse código para ajudar a resolver o problema com chiado nos fones razer utilizando o programa BlueStacks
  
