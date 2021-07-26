@@ -25,4 +25,4 @@ Faça sua escolha e após isso, entre em um dos links abaixo:
 
 **[Utilizar BlueStacks](https://github.com/GabrielCoutz/Usando-BlueStacks/blob/main/README.md)**
 
-**[Utilizar BlueStacks]-Manutenção**
+**[Utilizar DPC Latency]-Manutenção**
