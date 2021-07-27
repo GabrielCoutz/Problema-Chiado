@@ -25,7 +25,8 @@ Faça sua escolha e após isso, entre em um dos links abaixo:
 
 
 <a href="https://github.com/GabrielCoutz/Usando-BlueStacks/blob/main/README.md" target="_blank">teste</a>
-
+[teste](https://github.com/GabrielCoutz/Usando-BlueStacks/blob/main/README.md){:target="_blank"}
+[link](url){:target="_blank"}
 
 **[Utilizar BlueStacks](https://github.com/GabrielCoutz/Usando-BlueStacks/blob/main/README.md)**
 
