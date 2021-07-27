@@ -26,6 +26,7 @@ Faça sua escolha e após isso, entre em um dos links abaixo:
 
 <a href="https://github.com/GabrielCoutz/Usando-BlueStacks/blob/main/README.md" target="_blank" rel=noopener>teste</a>
 
+[xampson](https://github.com/GabrielCoutz/Usando-BlueStacks/blob/main/README.md){:target="_blank" rel="noopener"}
 
 **[Utilizar BlueStacks](https://github.com/GabrielCoutz/Usando-BlueStacks/blob/main/README.md)**
 
