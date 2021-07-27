@@ -23,11 +23,6 @@ Ou seja, ambos podem acabar com seu problema, só resta a vc escolher qual progr
 # Links
 Faça sua escolha e após isso, entre em um dos links abaixo:
 
-
-<a href="https://github.com/GabrielCoutz/Usando-BlueStacks/blob/main/README.md" target="_blank" rel=noopener>teste</a>
-
-[xampson](https://github.com/GabrielCoutz/Usando-BlueStacks/blob/main/README.md){:target="_blank" rel="noopener"}
-
 **[Utilizar BlueStacks](https://github.com/GabrielCoutz/Usando-BlueStacks/blob/main/README.md)**
 
 **[Utilizar DPC Latency](https://github.com/GabrielCoutz/Usando-DPC/blob/main/README.md)**
