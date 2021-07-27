@@ -24,7 +24,7 @@ Ou seja, ambos podem acabar com seu problema, só resta a vc escolher qual progr
 Faça sua escolha e após isso, entre em um dos links abaixo:
 
 
-<a href="https://github.com/GabrielCoutz/Usando-BlueStacks/blob/main/README.md" rel=noopener>teste</a>
+<a href="https://github.com/GabrielCoutz/Usando-BlueStacks/blob/main/README.md" rel="noopener">teste</a>
 
 
 **[Utilizar BlueStacks](https://github.com/GabrielCoutz/Usando-BlueStacks/blob/main/README.md)**
